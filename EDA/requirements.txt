@@ -1,0 +1,16 @@
+pdfminer.six
+openpyxl
+numpy
+pandas
+matplotlib 
+seaborn 
+scipy
+statsmodels
+folium
+pingouin
+altair
+WordCloud
+geopandas
+geopy
+googlemaps
+xlrd
